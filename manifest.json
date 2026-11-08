@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "python-elasticsearch-runner",
+  "versions": [
+    {
+      "commit": "5a6537c5bffef4d5e53a729ceb7aca102209345d",
+      "parsed_at": "2026-11-08T11:16:56.129306+00:00",
+      "filetree": "filetree/5a6537c5bffef4d5e53a729ceb7aca102209345d.nq.gz",
+      "blobs": [
+        "blob/0511eed6c4543a3b7edbd0b0328529f1d71b0c8e.nq.gz",
+        "blob/f154e50eec3e41170ca94e24fab4bf555cbda3da.nq.gz",
+        "blob/a1d66893f1c415f286d7b57800f3a705466e3320.nq.gz",
+        "blob/1ae04bdb130921c67e749aa9648892e08c697a14.nq.gz",
+        "blob/509693849ffa6c19f7a9b90f44af23e909ad42c0.nq.gz",
+        "blob/051bba3b861d3a141aaea9b6bcc8d67a5107cad3.nq.gz",
+        "blob/16a0469f74da94868f32156382d211d8e42fb298.nq.gz",
+        "blob/939aa1eed0ef7c035b173d8ea0905743b618f9d1.nq.gz",
+        "blob/49cee5c6acb59d1580cf701cf93dfeff86214c5f.nq.gz",
+        "blob/9c8e922c04a9603e7393069074221e879b1bce80.nq.gz",
+        "blob/94a88cad554f34366b9c60a6061c9676727b2977.nq.gz",
+        "blob/4c23180bd7ec78c2812052fe344ede51e235597c.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/75b4ca2fd2d6139b29c555c37f075ef2fcf158ad.nq.gz",
+        "blob/d4468fa240250f635381d5da50f6ecec2d2c0eb1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
